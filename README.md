@@ -38,3 +38,11 @@ This project is implemented using ESP32 and integrates multiple sensors to monit
 - Event-based alert system
 - IoT cloud communication (Blynk)
 - Fall detection using accelerometer threshold
+## Project Structure
+
+smart-helmet/
+├── src/        # Source code (main .ino / .c files)
+├── include/    # Header files
+├── docs/       # Documentation (report, diagrams)
+├── images/     # Project images (circuit, setup)
+├── README.md
